@@ -1,11 +1,15 @@
 [
-    {"position":"1","username":"MeriN","score":"55"},
-    {"position":"2","username":"Aveelah","score":"35"},
-    {"position":"3","username":"Vikilines","score":"15"},
-    {"position":"4","username":"Aku king","score":"15"},
-    {"position":"5","username":"Chuks umahi","score":"10"},
-    {"position":"6","username":"Couplet Foodies","score":"10"},
-    {"position":"7","username":"Mo","score":"10"},
-    {"position":"8","username":"Anathojohnwale","score":"5"},
-    {"position":"9","username":"Juba","score":"5"}
-]
+    {"position":"1","username":"Aku king","score":"100"},
+    {"position":"2","username":"MeriN","score":"65"},
+    {"position":"3","username":"Aveelah","score":"35"},
+    {"position":"4","username":"Mo","score":"35"},
+    {"position":"5","username":"Vikilines","score":"20"},
+    {"position":"6","username":"Chuks umahi","score":"15"},
+    {"position":"7","username":"Couplet Foodies","score":"10"},
+    {"position":"8","username":"Piston","score":"10"},
+    {"position":"9","username":"Anathojohnwale","score":"5"},
+    {"position":"10","username":"Juba","score":"5"},
+    {"position":"11","username":"A10_official","score":"0"},
+    {"position":"12","username":"PrinceOhakwe","score":"0"},
+    {"position":"13","username":"Vbj4fc","score":"0"}
+    ]
